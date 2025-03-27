@@ -4,10 +4,10 @@ import type React from "react"
 
 import { useState, useRef, useEffect } from "react"
 import { motion } from "framer-motion"
-import { Card } from "@/frontend/components/ui/card"
-import { Button } from "@/frontend/components/ui/button"
-import { Input } from "@/frontend/components/ui/input"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/frontend/components/ui/tabs"
+import { Card } from "@/components/ui/card"
+import { Button } from "@/components/ui/button"
+import { Input } from "@/components/ui/input"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import {
   Send,
   Bot,
